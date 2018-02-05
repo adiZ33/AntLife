@@ -1,0 +1,13 @@
+E:\projekty visual studio\AntLifeConsole\AntLifeConsole\obj\Debug\netcoreapp2.0\AntLifeConsole.csprojResolveAssemblyReference.cache
+E:\projekty visual studio\AntLifeConsole\AntLifeConsole\obj\Debug\netcoreapp2.0\AntLifeConsole.csproj.CoreCompileInputs.cache
+E:\projekty visual studio\AntLifeConsole\AntLifeConsole\obj\Debug\netcoreapp2.0\AntLifeConsole.AssemblyInfoInputs.cache
+E:\projekty visual studio\AntLifeConsole\AntLifeConsole\obj\Debug\netcoreapp2.0\AntLifeConsole.AssemblyInfo.cs
+E:\projekty visual studio\AntLifeConsole\AntLifeConsole\bin\Debug\netcoreapp2.0\AntLifeConsole.deps.json
+E:\projekty visual studio\AntLifeConsole\AntLifeConsole\bin\Debug\netcoreapp2.0\AntLifeConsole.runtimeconfig.json
+E:\projekty visual studio\AntLifeConsole\AntLifeConsole\bin\Debug\netcoreapp2.0\AntLifeConsole.runtimeconfig.dev.json
+E:\projekty visual studio\AntLifeConsole\AntLifeConsole\bin\Debug\netcoreapp2.0\AntLifeConsole.dll
+E:\projekty visual studio\AntLifeConsole\AntLifeConsole\bin\Debug\netcoreapp2.0\AntLifeConsole.pdb
+E:\projekty visual studio\AntLifeConsole\AntLifeConsole\obj\Debug\netcoreapp2.0\AntLifeConsole.dll
+E:\projekty visual studio\AntLifeConsole\AntLifeConsole\obj\Debug\netcoreapp2.0\AntLifeConsole.pdb
+E:\projekty visual studio\AntLifeConsole\AntLifeConsole\bin\Debug\netcoreapp2.0\AntLifePCL.dll
+E:\projekty visual studio\AntLifeConsole\AntLifeConsole\bin\Debug\netcoreapp2.0\AntLifePCL.pdb

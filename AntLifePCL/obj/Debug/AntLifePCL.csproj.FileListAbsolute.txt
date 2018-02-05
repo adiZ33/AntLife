@@ -1,0 +1,6 @@
+E:\projekty visual studio\AntLifeConsole\AntLifePCL\bin\Debug\AntLifePCL.dll
+E:\projekty visual studio\AntLifeConsole\AntLifePCL\bin\Debug\AntLifePCL.pdb
+E:\projekty visual studio\AntLifeConsole\AntLifePCL\obj\Debug\AntLifePCL.csprojResolveAssemblyReference.cache
+E:\projekty visual studio\AntLifeConsole\AntLifePCL\obj\Debug\AntLifePCL.csproj.CoreCompileInputs.cache
+E:\projekty visual studio\AntLifeConsole\AntLifePCL\obj\Debug\AntLifePCL.dll
+E:\projekty visual studio\AntLifeConsole\AntLifePCL\obj\Debug\AntLifePCL.pdb
