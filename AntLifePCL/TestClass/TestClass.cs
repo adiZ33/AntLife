@@ -11,22 +11,28 @@ namespace AntLifePCL
         public int TestClassId { get; set; }
         public string TestClassName { get; set; }
 
-        #region Bezpieczne pole
+        private int naszaKasa;
 
-        private int testInt;
-
-        public int TestInt
+        public int NaszaKasa
         {
-            get { return testInt; }
-            set
-            {
-                if (testInt < 10)
-                    testInt = 10;
-                else
-                testInt = value;
-            }
+            get { return naszaKasa; }
+            set { naszaKasa = value; }
         }
 
-        #endregion
+        //hermetyzacja
+
+        private int _wiek;
+
+        public int GetAge()
+        {
+            return _wiek;
+        }
+
+        public void SetAge(int wiek)
+        {
+            _wiek = wiek;
+        }
+
+        public int wiek { get; set; }
     }
 }
