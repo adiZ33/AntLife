@@ -13,6 +13,18 @@ namespace AntLifeConsole
             //LatająceOwady: Owady
             //Osa: LatajaceOwady
             //ZiemneOwady: Owady
+
+
+
+        }
+        //polimorfizm statyczny (przeciążenie metody)
+        public static int dodawanie(int a, int b)
+        {
+            return a + b;
+        }
+        public static int dodawanie(int a, int b, int c)
+        {
+            return a + b + c;
         }
     }
 }
