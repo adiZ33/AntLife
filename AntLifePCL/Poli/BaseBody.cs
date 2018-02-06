@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AntLifePCL.Poli
 {
-    public class BaseBody
+    public abstract class BaseBody
     {
         public virtual string Name { get; set; }
         public virtual float Longitude { get; set; }
@@ -18,5 +18,7 @@ namespace AntLifePCL.Poli
             Debug.WriteLine("BaseBody Name: " + Name);
             Debug.WriteLine("BaseBody Localization: " + Longitude + " | " + Latitude);
         }
+
+        public abstract void CreateDefense(int Val);
     }
 }

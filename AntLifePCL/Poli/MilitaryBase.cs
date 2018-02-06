@@ -25,5 +25,10 @@ namespace AntLifePCL.Poli
             //CreateBase(Name, Longitude, Latitude);
             Debug.WriteLine("MilitaryBase Wall resistance: " + WallResistance);
         }
+
+        public override void CreateDefense(int Val)
+        {
+            Debug.WriteLine("MilitaryBase Defense value is set to: " + Val);
+        }
     }
 }

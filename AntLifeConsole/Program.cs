@@ -19,7 +19,6 @@ namespace AntLifeConsole
             //BaseBody mbb = new MilitaryBase();
             //mbb.CreateBase("MilitaryBase Name", 9.9f, 10.10f);
 
-            MilitaryBase bbm = new BaseBody();
 
 
             Console.ReadKey();
