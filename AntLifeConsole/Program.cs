@@ -13,10 +13,15 @@ namespace AntLifeConsole
             //BaseBody bb = new BaseBody();
             //bb.CreateBase("BaseBody Name", 1.1f, 2.2f);
 
-            //MilitaryBase mb = new MilitaryBase();
+            MilitaryBase mb = new MilitaryBase("Super baza",33f,44f,9);
             //mb.CreateBase("MilitaryBase Name", 9.9f, 10.10f,100);
 
-            //BaseBody mbb = new MilitaryBase();
+            Console.WriteLine(mb.Name);
+            Console.WriteLine(mb.Longitude);
+            Console.WriteLine(mb.Latitude);
+            Console.WriteLine(mb.WallResistance);
+
+            BaseBody mbb = new MilitaryBase("Super baza", 33f, 44f, 9);
             //mbb.CreateBase("MilitaryBase Name", 9.9f, 10.10f);
 
 

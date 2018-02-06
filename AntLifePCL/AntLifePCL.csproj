@@ -36,8 +36,16 @@
     <!-- A reference to the entire .NET Framework is automatically included -->
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Poli\Animal.cs" />
     <Compile Include="Poli\BaseBody.cs" />
+    <Compile Include="Poli\Cloth.cs" />
+    <Compile Include="Poli\Dog.cs" />
+    <Compile Include="Poli\ICloth.cs" />
+    <Compile Include="Poli\IPet.cs" />
+    <Compile Include="Poli\IReactOnSound.cs" />
     <Compile Include="Poli\MilitaryBase.cs" />
+    <Compile Include="Poli\Pet.cs" />
+    <Compile Include="Poli\Wolf.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestClass\TestClass.cs" />
   </ItemGroup>

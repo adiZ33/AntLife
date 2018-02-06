@@ -9,6 +9,16 @@ namespace AntLifePCL.Poli
 {
     public abstract class BaseBody
     {
+        public BaseBody() { }
+
+        public BaseBody(string Name, float Longitude, float Latitude)
+        {
+            this.Name = Name;
+            this.Longitude = Longitude;
+            this.Latitude = Latitude;
+
+        }
+
         public virtual string Name { get; set; }
         public virtual float Longitude { get; set; }
         public virtual float Latitude { get; set; }
